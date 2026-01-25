@@ -1,4 +1,4 @@
-# CODSOFT-contact-book-
+# contact-book-
 A fully functional Mangement system bult with python tkinter library . This application can be used to store, search , update , and delete contact. 
 # Graphical User Interface : Built using tkinter for intuitive user experience 
 # data visualization 
